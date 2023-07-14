@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">login_signUp</string>
+    <string name="title_activity_dashboard">dashboard</string>
+</resources>
